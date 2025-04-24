@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello 👋!! My name is Andrey. I am currently a begginer Python developer.
+
+- 🌱 I’m currently learning ...
 💬 I feel good ..
 <!--
 **amartini1985/amartini1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
